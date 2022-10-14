@@ -1,0 +1,8 @@
+C:\Users\fatih\source\repos\ödev3_C\ödev3_C\bin\Debug\ödev3_C.exe.config
+C:\Users\fatih\source\repos\ödev3_C\ödev3_C\bin\Debug\ödev3_C.exe
+C:\Users\fatih\source\repos\ödev3_C\ödev3_C\bin\Debug\ödev3_C.pdb
+C:\Users\fatih\source\repos\ödev3_C\ödev3_C\obj\Debug\ödev3_C.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\ödev3_C\ödev3_C\obj\Debug\ödev3_C.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatih\source\repos\ödev3_C\ödev3_C\obj\Debug\ödev3_C.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\ödev3_C\ödev3_C\obj\Debug\ödev3_C.exe
+C:\Users\fatih\source\repos\ödev3_C\ödev3_C\obj\Debug\ödev3_C.pdb
